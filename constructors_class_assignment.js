@@ -93,3 +93,5 @@ class Quiz{
         this.score = score;
     }
 }
+let quiz = new Quiz([question.text],1,0)
+console.log(quiz);
